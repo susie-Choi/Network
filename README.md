@@ -3,3 +3,8 @@
 * Where : Kwangwoon University, Seoul
 * Why : Project for Network course, Midterm test
 * What : RDT 3.0 protocol
+
+* How?
+  ```
+  > code?
+  ```
