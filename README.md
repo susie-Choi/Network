@@ -6,5 +6,5 @@
 
 * How?
   ```
-  > code?
+  > Sender <-> Network <-> Receiver 구조로 구현하였습니다.
   ```
